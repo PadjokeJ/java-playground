@@ -1,7 +1,8 @@
-package Chess.src.Main;
-import Chess.src.Window;
+package Chess.src;
 
-class Main {
+import Chess.src.*;
+
+public class Main {
 
     public static void main(String[] args) {
         System.out.println("Start chess :>");

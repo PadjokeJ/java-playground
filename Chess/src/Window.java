@@ -1,8 +1,8 @@
-package Chess.src.Window;
+package Chess.src;
 
 import javax.swing.*;
 
-class Window extends JPanel {
+public class Window extends JPanel {
     public void paint(Graphics graphics) {
 
     }
